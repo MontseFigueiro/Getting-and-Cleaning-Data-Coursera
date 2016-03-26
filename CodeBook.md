@@ -19,8 +19,8 @@ activity - The type of activity
 ###Column Names - Variables with mean and std
 
   
-    ·tBodyAccMeanX
-    ·tBodyAccMeanY
+    tBodyAccMeanX
+    tBodyAccMeanY
     tBodyAccMeanZ
     tBodyAccStdX
     tBodyAccStdY
