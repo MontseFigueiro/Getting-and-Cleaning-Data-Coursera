@@ -5,13 +5,13 @@
 
 ###ID subject and Activity
 
-   ## subject - The ID of the subject   
-   ## activity - The type of activity
+subject - The ID of the subject   
+activity - The type of activity
     
 Wanted values:
 
-    mean(): Mean value
-    std(): Standard deviation
+·mean(): Mean value
+·std(): Standard deviation
 
 
 Column Names - ariables
