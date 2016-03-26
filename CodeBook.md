@@ -10,14 +10,14 @@ activity - The type of activity
     
 ###Wanted values:
 
-mean(): Mean value
-std(): Standard deviation
+    ####mean(): Mean value
+    ####std(): Standard deviation
 
 
-###Column Names - ariables
+###Column Names - variables
 
-tBodyAccMeanX
-tBodyAccMeanY
+    tBodyAccMeanX
+    tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
