@@ -1,12 +1,12 @@
 
-##Code Book
+#Code Book
 
-#This code book for the file tidy2_average.txt.
+##This code book for the file tidy2_average.txt.
 
-ID subject and Activity
+###ID subject and Activity
 
-    subject - The ID of the subject
-    activity - The type of activity
+   ## subject - The ID of the subject   
+   ## activity - The type of activity
     
 Wanted values:
 
